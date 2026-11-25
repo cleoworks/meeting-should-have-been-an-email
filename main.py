@@ -8,9 +8,12 @@
 #   The email was two sentences; the meeting added a third, then spent
 #   an hour arguing about the comma.
 #
-# Chosen by a harsh local judge: 2 independent passes, position swap,
-# devil's advocate, doubt to the rival — 12/16 pairwise wins vs 4 named
-# rivals from the public field, best worst-case of every candidate tried.
+# Chosen by a harsh local judge, 3 rounds, 2 independent passes each
+# (position swap, devil's advocate, doubt to the rival): round 1 winner
+# K3 ("eulogy", 14/16) fell to a strict K1 reading in round 2; round 2
+# winner W5 ("funeral", 12/16) fell to the same reading in round 3;
+# X2 won round 3 outright, 12/16 (6/8 + 6/8), best worst-case of every
+# candidate tried, headline 0.65 after a 0.10 haircut.
 
 import os
 
